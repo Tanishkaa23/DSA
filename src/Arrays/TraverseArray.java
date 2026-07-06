@@ -1,6 +1,6 @@
 package Arrays;
 
-public class ArrayBasics {
+public class TraverseArray {
     public static void main(String[] args){
 
         //Traverse elements of an array
