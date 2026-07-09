@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class RotateArr {
+public class RotateArrLeft {
     public static void main(String[] args) {
 
         // rotate left by k elements
