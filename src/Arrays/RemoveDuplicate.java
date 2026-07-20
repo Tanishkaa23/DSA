@@ -18,8 +18,8 @@ public class RemoveDuplicate {
                  k++;
              }
         }
-        arr[k]=arr[arr.length-1];
-        k++;
+//        arr[k]=arr[arr.length-1];
+//        k++;
         //special case/handling when used [i+1]
 
         for (int i = 0; i < k; i++) {
